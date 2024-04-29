@@ -27,11 +27,11 @@ To use this notebook, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Merfa2001/predict-covid-flu-allergy-cold-.git)>
    ```
 2. Navigate to the repository folder:
    ```bash
-   cd <repository-folder>
+   cd <C:\Users\Merfa\Documents\GitHub\predict-covid-flu-allergy-cold->
    ```
 3. Start the Jupyter Notebook to open `hel3y.ipynb`:
    ```bash
